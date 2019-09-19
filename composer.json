@@ -17,7 +17,7 @@
   "require-dev": {
   },
   "autoload": {
-    "psr-4": { "Twig\\Defaults\\": "src/" }
+    "psr-4": { "AzizJH\\TwigDefaults\\": "src/" }
   },
   "extra": {
     "branch-alias": {
