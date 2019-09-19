@@ -1,0 +1,27 @@
+{
+  "name": "twig/defaults-extension",
+  "description": "",
+  "keywords": ["twig"],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Julian Haslinger",
+      "email": "me@aziz.wtf"
+    }
+  ],
+  "require": {
+    "php": "^7.1.3",
+    "twig/twig": "^2.6"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": { "Twig\\Defaults\\": "src/" }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.x-dev"
+    }
+  }
+}
